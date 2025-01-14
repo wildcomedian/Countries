@@ -1,3 +1,8 @@
+/*
+ * Name: Joel A.
+ * Date: 1/14/25
+ * Description: Creates a country object that holds the countries name, capital, language, and an image of the country on a world map
+ */
 public class Country
 {
   // add private instance variables for the name, capital, language, and image file.

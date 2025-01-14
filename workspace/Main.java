@@ -101,17 +101,6 @@ public class Main
 
     outputLabel.setText(questions[questionsIndex]);
     System.out.println(questions[questionsIndex]);
-
-    /* 
-    if (answers[answersIndex].equals(answer)) {
-      outputLabel.setText("You are correct good job!");
-      System.out.println("You are correct good job!");
-    }
-    else if (!(answers[answersIndex].equals(answer))) {
-      outputLabel.setText("You are incorrect keep on studying!");
-      System.out.println("You are incorrect keep on studying!");
-    }
-      */
   }
 
 
